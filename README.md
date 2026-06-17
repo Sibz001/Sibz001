@@ -2,8 +2,7 @@
 
 **AWS Cloud Solutions Architect | DevOps | Docker | Serverless**
 
-I'm an AWS cloud professional with 4+ years of experience designing and deploying scalable, secure, and cost-efficient cloud infrastructure. Currently based in New Zealand, pursuing postgraduate studies and seeking a Cloud/IT internship.
-
+I'm an AWS cloud professional with 4+ years of experience designing and deploying scalable, secure, and cost-efficient cloud infrastructure.
 ---
 
 ## 🛠️ Tech Stack
